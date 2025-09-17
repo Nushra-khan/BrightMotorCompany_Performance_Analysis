@@ -15,7 +15,7 @@ To explore and analyze customer-related data to answer key business questions re
 
 These insights help the company optimize product offerings, pricing, and customer targeting.
 
----
+-----------------------------------------------------------------------------------------------------------------------
 
 ## 🧾 Dataset Description
 
