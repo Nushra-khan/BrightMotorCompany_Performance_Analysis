@@ -65,7 +65,7 @@ The dataset includes the following features:
     - Education level  
     - Number of dependents
 
----
+------------------------------------------------------------------------------------------------------------
 
 ## 📚 Technologies Used
 
