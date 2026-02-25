@@ -9,7 +9,7 @@ This repository contains a comprehensive data analysis project for **Bright Moto
 To explore and analyze customer-related data to answer key business questions related to:
 
 - Demographics  
-- Personal & Housing Loans  
+- Personal & Housing Loans
 - Partner Employment  
 - Purchasing Power  
 
