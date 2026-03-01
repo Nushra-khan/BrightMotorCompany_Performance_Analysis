@@ -10,7 +10,7 @@ To explore and analyze customer-related data to answer key business questions re
 
 - Demographics  
 - Personal & Housing Loans
-- Partner Employment  
+- Partner Employment
 - Purchasing Power  
 
 These insights help the company optimize product offerings, pricing, and customer targeting.
